@@ -11,21 +11,17 @@ Size: 16692254
 Filename: ./DEBs/com.renouri.opalbeta_0.2_iphoneos-arm.deb
 Icon: file:///Library/Themes/Opal.theme/IconBundles/jp.co.fang.squaready@3x.png
 MD5sum: 2b634c9ce0b86a0b84c110e3a03fcade
-Name: LLVM+Clang (32 Bit)
+
 Package: org.coolstar.llvm-clang32
-Replaces: org.coolstar.llvm-clang (<< 3.7.1-1)
-Breaks: org.coolstar.llvm-clang (<< 3.7.1-1)
-Priority: optional
-Depends: firmware (>= 5.0)
+Name: LLVM+Clang (32 Bit)
 Version: 3.7.1-2
-Architecture: iphoneos-arm
-Description: LLVM, Clang, and Compiler-RT 3.4 SVN
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=llvm-clangDp
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=llvm-clangDp
-Sponsor: thebigboss.org <http://thebigboss.org>
-Maintainer: BigBoss <bigboss@thebigboss.org>
 Author: CoolStar <coolstarorganization@gmail.com>
-dev: coolstar
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Description: LLVM, Clang, and Compiler-RT 3.4 SVN
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=llvm-clangDp
+Architecture: iphoneos-arm
 Section: Development
-Tag: purpose::console, cydia::obsolete
-Installed-Size: 521112
+Size: 521112
+Filename: ./DEBs/llvm-clang32_3.7.1-2.deb
+Icon: file:///Library/Themes/Opal.theme/IconBundles/jp.co.fang.squaready@3x.png
+MD5sum: A2278B282DEC034CE7C9947C25186E17
