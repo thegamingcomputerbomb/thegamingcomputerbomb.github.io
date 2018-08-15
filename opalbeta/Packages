@@ -21,7 +21,7 @@ Description: LLVM, Clang, and Compiler-RT 3.4 SVN
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=llvm-clangDp
 Architecture: iphoneos-arm
 Section: Development
-Size: 521112
+Size: 31191920
 Filename: ./DEBs/llvm-clang32_3.7.1-2.deb
 Icon: file:///Library/Themes/Opal.theme/IconBundles/jp.co.fang.squaready@3x.png
 MD5sum: A2278B282DEC034CE7C9947C25186E17
