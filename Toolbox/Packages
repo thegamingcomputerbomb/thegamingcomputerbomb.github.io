@@ -26,3 +26,18 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: org.coolstar.llvm-clang32
+Version: 1.0.0-1
+Section: Tweaks
+Maintainer: Computerbomb <thegamingcomputerbomb@gmail.com>
+Depends: firmware (<10.0)
+Architecture: iphoneos-arm
+Filename: ./debs/clang.deb
+Size: 72304500
+MD5sum: 01dd499166562df3c2b5b83c985dffdb
+Description: clang for ios 9.3.5
+Name: Clang
+Author: Computerbomb <thegamingcomputerbomb@gmail.com>
+Depiction: https://thegamingcomputerbomb.github.io/Toolbox/depictions/?p=clang
+
+
