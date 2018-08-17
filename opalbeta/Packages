@@ -14,13 +14,13 @@ MD5sum: 2b634c9ce0b86a0b84c110e3a03fcade
 
 Package: org.coolstar.llvm-clang32
 Name: LLVM+Clang (32 Bit)
-Version: 3.7.2
+Version: 3.7.1-2
 Author: CoolStar <coolstarorganization@gmail.com>
 Maintainer: ComputerBomb <thegamingcomputerbomb@gmail.com>
 Description: LLVM, Clang, and Compiler-RT 3.4 SVN
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=llvm-clangDp
 Architecture: iphoneos-arm
-Section: Development
+Section: Themes (SpringBoard)
 Size: 72304500
 Filename: ./DEBs/clang.deb
 Icon: file:///data/icon/clang.png
