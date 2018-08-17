@@ -40,7 +40,6 @@ MD5sum: c59c3800002a98160d3e696c58965b52
 SHA1: 57ca2fd595ec73f865bb2eb888e2a34ab7a35011
 SHA256: 23f472b2a238053048c42c742815b9a366681767a9103b81f641f6d0d9aa81de
 Section: Tweaks
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=llvm-clangDp
 Description: LLVM, Clang, and Compiler-RT 3.4 SVN
 Tag: purpose::console, cydia::obsolete
 Author: CoolStar <coolstarorganization@gmail.com>
