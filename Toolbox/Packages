@@ -33,19 +33,18 @@ Name: Old Package
 Package: org.coolstar.llvm-clang32
 Version: 3.7.1-2
 Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 521112
+Maintainer: Toolbox <thegamingcomputerbomb@gmail.com
 Filename: ./debs/clang.deb
-Size: 72304500
-MD5sum: 01dd499166562df3c2b5b83c985dffdb
-SHA1: e3a610b85638a6b40cf6bd65c2ae2572266ddf21
-SHA256: 95fdb0459b6c0ec08c014f7d212087e8f17bd60132a2817dec5341c46c5d4155
-Section: Development
+Size: 72304600
+MD5sum: c59c3800002a98160d3e696c58965b52
+SHA1: 57ca2fd595ec73f865bb2eb888e2a34ab7a35011
+SHA256: 23f472b2a238053048c42c742815b9a366681767a9103b81f641f6d0d9aa81de
+Section: Tweaks
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=llvm-clangDp
 Description: LLVM, Clang, and Compiler-RT 3.4 SVN
 Tag: purpose::console, cydia::obsolete
 Author: CoolStar <coolstarorganization@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=llvm-clangDp
+Depiction: http://thegamingcomputerbomb.github.io/depictions/?p=org.coolstar.llvm-clang32
 Dev: coolstar
 Name: LLVM+Clang (32 Bit)
 
