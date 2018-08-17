@@ -1,11 +1,11 @@
 <package>
 	<id>org.coolstar.llvm-clang32</id>
-	<name>clang</name>
-	<version>1.0.0-1</version>
+	<name>LLVM+Clang (32 Bit)</name>
+	<version>3.7.1-2</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>9.3.5</maxiOS>
-			<otherVersions>unsupported</otherVersions>
+			<otherVersions>unconfirmed</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
 			-->
