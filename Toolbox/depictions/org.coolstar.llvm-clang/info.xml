@@ -1,0 +1,22 @@
+<package>
+	<id>org.coolstar.llvm-clang32</id>
+	<name>LLVM+Clang (32 Bit)</name>
+	<version>3.7.1-2</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>10.0</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Requires ios 9.3.5 and below..</description>
+	</descriptionlist>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
