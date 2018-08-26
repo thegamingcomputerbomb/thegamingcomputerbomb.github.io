@@ -35,10 +35,10 @@ Version: 3.7.1-2
 Architecture: iphoneos-arm
 Maintainer: Toolbox <thegamingcomputerbomb@gmail.com
 Filename: ./debs/org.coolstar.llvm-clang.deb
-Size: 72310776
-MD5sum: b70cc6d4ff2970d02698151bd8051900
-SHA1: 09bb94af58bfd804c35fa4f901d7c2f36b0f61cf
-SHA256: 603ffb523bd55839f0138d024e51bebb3d815136a8893d4ccf58049922af4a04
+Size: 72304844
+MD5sum: f38257de1a95bd6071623b8792da1fd4
+SHA1: a719074371c5ea4c62f5e216eb2e5b561404104e
+SHA256: 8446ca92d77f669d8d3a244902a4ef669ae198d9cb365f44fc068fd73ac6b984
 Section: Tweaks
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=llvm-clangDp
 Description: LLVM, Clang, and Compiler-RT 3.4 SVN
